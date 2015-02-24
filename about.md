@@ -15,3 +15,4 @@ I was an undergraduate in mathematical physics at Edinburgh and then studied for
 
 * [Twitter](http://www.twitter.com/kieranrcampbell)
 * [github](http://www.github.com/kieranrcampbell)
+* [Linkedin](https://uk.linkedin.com/in/kieranrcampbell)
