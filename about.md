@@ -3,28 +3,15 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Intro
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I am a DPhil (PhD) student at [Oxford University](http://www.ox.ac.uk) specialising in computational genomics in neurological disease, supervised by [Caleb Webber](http://www.dpag.ox.ac.uk/team/group-leaders/caleb-webber) and [Chris Ponting](http://www.dpag.ox.ac.uk/team/group-leaders/chris-ponting). My research focusses on analytical methods for single-cell genomics and I'm particularly interested in using bayesian statistics on noisy, high-dimensional datasets.
 
-There are currently two themes built on Poole:
+## Short bio
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I was an undergraduate in mathematical physics at Edinburgh and then studied for a master's degree in computational biology at Cambridge. I have been a summer intern far too many times - at the [EBI](http://www.ebi.ac.uk), [CERN](http://www.cern.ch), [ILL](http://www.ill.fr) and twice at Agilent Technologies (now [Keysight](http://www.keysight.com)).
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Links
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+* [Twitter](http://www.twitter.com/kieranrcampbell)
+* [github](http://www.github.com/kieranrcampbell)
