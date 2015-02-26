@@ -10,7 +10,7 @@ relative_permalinks: true
 
 # Setup
 title:               'Kieran R Campbell'
-tagline:             'Computational genomics, statistics & Oxford'
+tagline:             'Research blog'
 description:         'A blog on computational genomics, statistics and coding. Oxford, UK.'
 url:                 
 baseurl:             /
