@@ -143,3 +143,5 @@ $$ m = log_2 N + 1 $$
 In other words, the _expected_ number of recursions scales logarithmically in
 \\(N\\), making it particularly promising as a competitor (at least for lower
 bounded) truncated normal sampling in `python`.
+
+A full IPython notebook can be found [here](http://nbviewer.ipython.org/github/kieranrcampbell/blog-notebooks/blob/master/Fast%20vectorized%20sampling%20from%20truncated%20normal%20distributions%20in%20python.ipynb).
