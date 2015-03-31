@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Post index
+title: Archive
 ---
 
 <ul>
