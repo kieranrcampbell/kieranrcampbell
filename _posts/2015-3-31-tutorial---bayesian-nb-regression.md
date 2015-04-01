@@ -119,11 +119,11 @@ easily be implemented by modifying the acceptance ratio and including hyper-
 parameters. The regression can also easily be extended to more than one
 independent variable.
 
-Two parameterizations of the negative binomial distribution exist: $(n,p)$ as
-per wikipedia and the mean version used for regression with \\( (\mu,r) \\). The
-equivalence is that \\( r=n \\) and \\( \mu = \frac{pr}{1-p} \\) (though careful
-how \\(p\\) is defined). It can be shown that the log acceptance ratio is given
-by
+Two parameterizations of the negative binomial distribution exist: \\( (n,p) \\)
+as per wikipedia and the mean version used for regression with \\( (\mu,r) \\).
+The equivalence is that \\( r=n \\) and \\( \mu = \frac{pr}{1-p} \\) (though
+careful how \\(p\\) is defined). It can be shown that the log acceptance ratio
+is given by
 
 $$
 \begin{array}{r}
