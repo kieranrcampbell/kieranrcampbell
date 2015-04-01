@@ -141,11 +141,13 @@ $$ \mu_i = \beta_0 + \beta_1 x_i $$
 
 We also need to define the sampling distributions \\(q(x'|x) \\). Since the
 parameters are independent we can factorise the expression to
+
 $$ q(r', \beta_0', \beta_1' \, | r, \beta_0, \beta_1) = q_r(r' \, | r)
 q_b(\beta_0' \, | \beta_0)$$
+
 For \\(q_b\\) we just choose a normal distribution centred around the current
-value (i.e. \\( q_b \sim N(\beta, \sigma) \\) ), while for \\(q_r) \\) we choose
-a normal distribution truncated at 0, since the dispersion parameter is strictly
+value (i.e. \\( q_b \sim N(\beta, \sigma) \\) ), while for \\(q_r\\) we choose a
+normal distribution truncated at 0, since the dispersion parameter is strictly
 positive.
 
 The art of Metropolis-hastings MCMC comes from choosing the variances of the
