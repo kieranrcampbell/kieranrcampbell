@@ -5,7 +5,7 @@ title: About
 
 ## Intro
 
-I am a DPhil (PhD) student at [Oxford University](http://www.ox.ac.uk) specialising in computational genomics in neurological disease, supervised by [Caleb Webber](http://www.dpag.ox.ac.uk/team/group-leaders/caleb-webber) and [Chris Ponting](http://www.dpag.ox.ac.uk/team/group-leaders/chris-ponting). My research focusses on analytical methods for single-cell genomics and I'm particularly interested in using bayesian statistics on noisy, high-dimensional datasets.
+I am a DPhil (PhD) student at [Oxford University](http://www.ox.ac.uk) specialising in computational genomics in neurological disease, supervised by [Caleb Webber](http://www.dpag.ox.ac.uk/team/group-leaders/caleb-webber) and [Chris Ponting](http://www.dpag.ox.ac.uk/team/group-leaders/chris-ponting) in DPAG and [Chris Yau](http://www.ndm.ox.ac.uk/principal-investigators/researcher/christopher-yau) at the Wellcome Trust Centre for Human Genetics & Department of Statistics. My research focusses on analytical methods for single-cell genomics and I'm particularly interested in using Bayesian statistics on noisy, high-dimensional datasets. We hope to apply these methods to cellular experiments in the context of neurological disease and in particular gain an insight into cell death in Parkinson's.
 
 ## Short bio
 
